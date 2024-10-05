@@ -1,5 +1,5 @@
 Bun.serve({
   fetch(req) {
-    return new Response("Bun 2!");
+    return new Response("Bun 3!");
   },
 });
